@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Como usar a internet com mais segurança no dia a dia",
+    "text": "Dicas simples sobre links suspeitos, senhas fortes e proteção de contas.",
+    "url": "pages/seguranca-digital.html"
+  },
+  {
+    "title": "Informática básica pode abrir portas para trabalho e estudo",
+    "text": "Entenda como e-mail, arquivos e organização digital ajudam na rotina.",
+    "url": "pages/informatica-basica.html"
+  },
+  {
+    "title": "Currículo e LinkedIn continuam essenciais para buscar oportunidades",
+    "text": "Aprenda a apresentar melhor seu perfil no ambiente digital.",
+    "url": "pages/empregabilidade.html"
+  }
+]
